@@ -1,5 +1,7 @@
 # BackSlash Linux Swen Theme
 
+<img width="256px" src="logo.png">
+
 Swen Theme is a flat Design theme for BackSlash Linux desktop. Inspired by *Layan*.
 
 In this repository you'll find:
