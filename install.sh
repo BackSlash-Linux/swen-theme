@@ -20,7 +20,7 @@ fi
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
-THEME_NAME=Layan
+THEME_NAME=Swen
 
 install() {
   local name=${1}
