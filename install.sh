@@ -28,7 +28,7 @@ install() {
   mkdir -p                                                                           ${PLASMA_DIR}
   mkdir -p                                                                           ${LOOKFEEL_DIR}
   mkdir -p                                                                           ${KVANTUM_DIR}
-  mkdir -p                                                                           ${WALLPAPER_DIR}/Matcha
+  mkdir -p                                                                           ${WALLPAPER_DIR}/Swen
 
   cp -ur ${SRC_DIR}/aurorae/${name}                                                  ${AURORAE_DIR}
   cp -ur ${SRC_DIR}/color-schemes/*.colors                                           ${SCHEMES_DIR}
