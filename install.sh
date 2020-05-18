@@ -40,7 +40,7 @@ install() {
   cp -r ${SRC_DIR}/plasma/look-and-feel/*                                            ${LOOKFEEL_DIR}
 }
 
-echo "Installing '${THEME_NAME} kde themes'..."
+echo "Installing '${THEME_NAME} Themes'..."
 
 install "${name:-${THEME_NAME}}"
 
