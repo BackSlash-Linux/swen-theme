@@ -1,6 +1,6 @@
 [%General]
-author=Vince Liuice, based on KvAdapta by Tsu Jan
-comment=An uncomplicated theme inspired by the Materia GTK theme
+author=BackSlash Linux, based on KvAdapta by Tsu Jan
+comment=An uncomplicated theme
 x11drag=all
 alt_mnemonic=true
 left_tabs=true
@@ -69,6 +69,8 @@ contrast=1.00
 dialog_button_layout=0
 intensity=1.00
 saturation=1.00
+click_behavior=0
+shadowless_popup=false
 
 [GeneralColors]
 window.color=#31313A
@@ -78,7 +80,7 @@ button.color=#44454B
 light.color=#44454B
 mid.light.color=#44454B
 dark.color=#25252d
-mid.color=#e1e1e196
+mid.color=#44454B
 highlight.color=#5657f5
 inactive.highlight.color=#5657f5
 text.color=#dfdfdf
@@ -97,7 +99,7 @@ transparent_dolphin_view=true
 transparent_pcmanfm_sidepane=true
 blur_translucent=true
 transparent_menutitle=true
-respect_darkness=false
+respect_darkness=true
 kcapacitybar_as_progressbar=true
 force_size_grip=true
 iconless_pushbutton=true
@@ -112,7 +114,8 @@ no_selection_tint=true
 transparent_arrow_button=false
 middle_click_scroll=false
 opaque_colors=false
-scroll_jump_workaround=false
+scroll_jump_workaround=true
+kinetic_scrolling=true
 
 [PanelButtonCommand]
 frame=true

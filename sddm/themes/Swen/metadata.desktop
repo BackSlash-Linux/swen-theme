@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Swen
+Description=Swen Theme
+Author=BackSlash Linux
+Copyright=(c) 2020, BackSlash Linux
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1.0
+Website=https://github.com/BackSlash-Linux/swen-theme
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=support@backslashlinux.com
+Theme-Id=Swen
+Theme-API=2.0

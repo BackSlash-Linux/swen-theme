@@ -1,5 +1,5 @@
 
-# Swen SDDM Theme
+Layan sddm theme for KDE Plasma desktop.
 
 ## Installation
 

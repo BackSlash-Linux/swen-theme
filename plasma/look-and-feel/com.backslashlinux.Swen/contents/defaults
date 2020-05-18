@@ -1,20 +1,20 @@
+[kdeglobals][Icons]
+Theme=Swen
+
 [kdeglobals][KDE]
 widgetStyle=kvantum
 
-[kdeglobals][General]
-ColorScheme=Swen
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
 
-[kdeglobals][Icons]
-Theme=Tela
-
-[plasmarc][Theme]
-name=Swen
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 ButtonsOnLeft=
 ButtonsOnRight=IAX
 library=org.kde.kwin.aurorae
-theme=Swen
+theme=__aurorae__svg__Swen
 
-[kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+[plasmarc][Theme]
+name=Swen

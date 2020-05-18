@@ -24,4 +24,3 @@ If you like BackSlash Linux, you can donate at:
 
 <span class="paypal"><a href="https://www.paypal.me/kumarpriyansh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
 
-<!-- ![1](../master/plasma/look-and-feel/com.github.vinceliuice.Layan/contents/previews/fullscreenpreview.jpg) -->
